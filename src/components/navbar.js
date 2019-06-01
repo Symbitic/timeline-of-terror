@@ -21,7 +21,7 @@ export default function Navbar ({ title }) {
         <div className="navbar-item">
           <img className={styles.img} src={img} alt="Navbar icon" />
         </div>
-        <Link className={cx('navbar-item', styles.link)} to="/">
+        <Link className={cx('navbar-item', styles.link)} to="/" aria-label="Navigate to home">
           <strong>{title}</strong>
         </Link>
 
@@ -34,10 +34,10 @@ export default function Navbar ({ title }) {
     
       <div id="navbar" className={cx('navbar-menu', styles.menu, active && 'is-active')}>
         <div className="navbar-end">
-          <Link className={cx('navbar-item', styles.link)} to="/about">
+          <Link className={cx('navbar-item', styles.link)} to="/about" aria-label="Read about the Timeline of Terror project">
             About
           </Link>
-          <Link className={cx('navbar-item', styles.link)} to="/timelines">
+          <Link className={cx('navbar-item', styles.link)} to="/timelines" aria-label="View the list of timelines">
             Timelines
           </Link>
         </div>

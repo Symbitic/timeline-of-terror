@@ -5,7 +5,8 @@ import SEO from '../components/seo'
 import Layout from '../components/layout'
 import cx from 'classnames'
 import styles from '../templates/timeline.module.css'
-import { FaEdit } from 'react-icons/fa'
+
+const prose = (repo, file) => `//prose.io/#${repo}/edit/master/${file}`
 
 export const pageQuery = graphql`
   query Timeline {
@@ -40,8 +41,6 @@ export const pageQuery = graphql`
   }
 `
 
-const prose = (repo, file) => `//prose.io/#${repo}/edit/master/${file}`
-
 export default function CompleteTimeline ({
   data: {
     allMarkdownRemark: { edges, totalCount },
@@ -67,8 +66,10 @@ export default function CompleteTimeline ({
                     : node.frontmatter.startTime
                 }) {node.frontmatter.date}: {node.frontmatter.title}
                 
-                <a target="_blank" rel="noopener noreferrer" href={prose(repo, node.fields.path)}>
-                  <FaEdit className="is-pulled-right" />
+                <a target="_blank" rel="noopener noreferrer" href={prose(repo, node.fields.path)} style={{textDecoration:'none'}} aria-label={`Edit ${node.fields.path}`}>
+                  <span className="icon is-large">
+                    <span class="fas fa-edit"></span>
+                  </span>
                 </a>
               </h5>
               <div dangerouslySetInnerHTML={{ __html: node.html }} />

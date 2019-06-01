@@ -3,9 +3,10 @@ import PropTypes from 'prop-types'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import { graphql, Link } from 'gatsby'
-import { FaArrowLeft, FaArrowRight, FaEdit } from 'react-icons/fa'
 import cx from 'classnames'
 import styles from './timeline.module.css'
+
+const prose = (repo, file) => `//prose.io/#${repo}/edit/master/${file}`
 
 export const pageQuery = graphql`
   query($timeline: String, $skip: Int!, $limit: Int!) {
@@ -41,8 +42,6 @@ export const pageQuery = graphql`
   }
 `
 
-const prose = (repo, file) => `//prose.io/#${repo}/edit/master/${file}`
-
 export default function Timeline ({ data, pageContext }) {
   const {
     timeline,
@@ -73,9 +72,11 @@ export default function Timeline ({ data, pageContext }) {
                     ? `${node.frontmatter.startTime} - ${node.frontmatter.endTime}`
                     : node.frontmatter.startTime
                 }) {node.frontmatter.date}: {node.frontmatter.title}
-
-                <a target="_blank" rel="noopener noreferrer" href={prose(repo, node.fields.path)}>
-                  <FaEdit className="is-pulled-right" />
+                
+                <a target="_blank" rel="noopener noreferrer" href={prose(repo, node.fields.path)} style={{textDecoration:'none'}} aria-label={`Edit ${node.fields.path}`}>
+                  <span className="icon is-large">
+                    <span class="fas fa-edit"></span>
+                  </span>
                 </a>
               </h5>
               <div dangerouslySetInnerHTML={{ __html: node.html }} />
@@ -85,8 +86,10 @@ export default function Timeline ({ data, pageContext }) {
             <div className="level-left">
               <div className="level-item">
                 {previousPagePath && (
-                  <Link style={{textDecoration: 'none'}} to={previousPagePath}>
-                    <FaArrowLeft />
+                  <Link style={{textDecoration:'none'}} to={previousPagePath} aria-label="Previous page">
+                    <span className="icon is-large">
+                      <span class="fas fa-arrow-left fa-lg"></span>
+                    </span>
                   </Link>
                 )}
               </div>
@@ -94,8 +97,10 @@ export default function Timeline ({ data, pageContext }) {
             <div className="level-right">
               <div className="level-item">
                 {nextPagePath && (
-                  <Link style={{textDecoration: 'none'}} to={nextPagePath}>
-                    <FaArrowRight />
+                  <Link style={{textDecoration:'none'}} to={nextPagePath} aria-label="Next page">
+                    <span className="icon is-large">
+                      <span class="fas fa-arrow-right fa-lg"></span>
+                    </span>
                   </Link>
                 )}
               </div>
