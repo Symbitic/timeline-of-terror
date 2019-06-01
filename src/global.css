@@ -1,0 +1,60 @@
+html {
+  background-color: #0a0a0a;
+}
+
+body {
+  color: white;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Open Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.title, .subtitle {
+  color: white;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  color: white;
+}
+
+a, a:visited, a:hover {
+  color: white;
+  font-weight: 600;
+}
+
+.container img {
+  display: block;
+  margin: 0 auto;
+}
+
+.container strong {
+  color: white;
+}
+
+.container a {
+  text-decoration: underline;
+}
+
+@media (width < 1024px) {
+  .container {
+    padding: 0 10px;
+  }
+}
+
+.image img {
+  width: auto;
+}
+
+figcaption {
+  text-align: center;
+}

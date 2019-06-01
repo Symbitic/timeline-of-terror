@@ -1,0 +1,24 @@
+.img {
+  max-height: 3rem;
+  margin-bottom: 0;
+}
+
+.link {
+  box-shadow: none;
+}
+
+/*
+.link {
+  color: black!important;
+}
+
+@media screen and (min-width: 1024px) {
+  .link {
+    color: white!important;
+  }
+}
+*/
+
+.menu {
+  background-color: inherit;
+}
