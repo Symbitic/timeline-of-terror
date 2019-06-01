@@ -12,7 +12,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Route of the Otis Air National Guard fighters to New York City" src="http://cdn.historycommons.org/images/events/281_map_otisflight2050081722-9162.jpg" />
+  <img alt="Route of the Otis Air National Guard fighters to New York City" src="https://i2.wp.com/cdn.historycommons.org/images/events/281_map_otisflight2050081722-9162.jpg" />
   <figcaption>Route of the Otis Air National Guard fighters to New York City.<br>[Source: Yvonne Vermillion/ MagicGraphix.com]</figcaption>
 </figure>
 

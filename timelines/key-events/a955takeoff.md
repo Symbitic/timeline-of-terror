@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Air Force One departs Sarasota." src="http://cdn.historycommons.org/images/events/333_airforceone_departs2050081722-9657.jpg" />
+  <img alt="Air Force One departs Sarasota." src="https://i2.wp.com/cdn.historycommons.org/images/events/333_airforceone_departs2050081722-9657.jpg" />
   <figcaption>Air Force One departs Sarasota.<br>[Source: Associated Press]</figcaption>
 <figure>
 

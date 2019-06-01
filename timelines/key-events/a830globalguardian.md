@@ -11,7 +11,7 @@ timelines:
 ---
 
 <!--
-![Offutt Air Force Base control tower during Global Guardian 1998.](http://cdn.historycommons.org/images/events/802_global_guardian_2050081722-9716-1.jpg)Offutt Air Force Base control tower during Global Guardian 1998. *[Source: Jeffery S. Viano]*
+![Offutt Air Force Base control tower during Global Guardian 1998.](https://i2.wp.com/cdn.historycommons.org/images/events/802_global_guardian_2050081722-9716-1.jpg)Offutt Air Force Base control tower during Global Guardian 1998. *[Source: Jeffery S. Viano]*
 -->
 
 As the 9/11 attacks are taking place, a large military training exercise called Global Guardian is said to be "in full swing." It has been going on since the previous week. [[Omaha World-Herald, 2/27/2002]; [Omaha World-Herald, 9/10/2002]] Global Guardian is an annual exercise sponsored by US Strategic Command (Stratcom) in cooperation with US Space Command and NORAD. One military author defines Stratcom as "the single US military command responsible for the day-to-day readiness of America's nuclear forces." [[Arkin, 2005, pp. 59][1]]

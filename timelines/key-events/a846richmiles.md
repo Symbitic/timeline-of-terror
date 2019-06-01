@@ -9,7 +9,7 @@ timelines:
 ---
 
 <!--
-![Robert Fangman.](http://cdn.historycommons.org/images/events/277_robert_fangman.jpg)
+![Robert Fangman.](https://i2.wp.com/cdn.historycommons.org/images/events/277_robert_fangman.jpg)
 Robert Fangman.
 *[Source: Family photo]*
 -->

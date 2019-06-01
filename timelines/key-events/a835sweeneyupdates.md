@@ -9,7 +9,7 @@ timelines:
 
 ---
 
-<!-- ![Michael Woodward.](http://cdn.historycommons.org/images/events/Michael_Woodward_2050081722-9060.jpg)Michael Woodward. *[Source: Discovery Channel]* -->
+<!-- ![Michael Woodward.](https://i2.wp.com/cdn.historycommons.org/images/events/Michael_Woodward_2050081722-9060.jpg)Michael Woodward. *[Source: Discovery Channel]* -->
 
 Amy Sweeney, a flight attendant on Flight 11, reaches the American Airlines flight services office at Logan International Airport in Boston for the third time, and, in a phone call lasting 12 or 13 minutes, gives details of the trouble on her plane to a manager there. [[9/11 Commission, 8/26/2004, pp. 11][1]; [US District Court for the Eastern District of Virginia, Alexandria Division, 7/31/2006][2]] Sweeney has already called the flight services office two times and provided employees there with details of the hijacking of Flight 11, but both calls were cut off after a short time (see [8:25 a.m. September 11, 2001] and [8:29 a.m. September 11, 2001]).
 

@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Bush's travels in the Sarasota, Florida, region, with key locations marked." src="http://cdn.historycommons.org/images/events/274_map_sarasota2050081722-9225.jpg" />
+  <img alt="Bush's travels in the Sarasota, Florida, region, with key locations marked." src="https://i2.wp.com/cdn.historycommons.org/images/events/274_map_sarasota2050081722-9225.jpg" />
   <figcaption>Bush's travels in the Sarasota, Florida, region, with key locations marked.<br>[Source: Yvonne Vermillion/ MagicGraphix.com]</figcaption>
 </figure>
 

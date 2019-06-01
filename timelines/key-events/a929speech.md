@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="President Bush begins speaking at 9:30 a.m. in the library of Booker Elementary School." src="http://cdn.historycommons.org/images/events/309_bush_panorama.jpg" />
+  <img alt="President Bush begins speaking at 9:30 a.m. in the library of Booker Elementary School." src="https://i2.wp.com/cdn.historycommons.org/images/events/309_bush_panorama.jpg" />
   <figcaption>President Bush begins speaking at 9:30 a.m. in the library of Booker Elementary School.<br>[Source: Booker Elementary website]</figcaption>
 </figure>
 

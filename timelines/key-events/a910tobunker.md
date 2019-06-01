@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Ashley Estes." src="http://cdn.historycommons.org/images/events/Ashely_Estes_2050081722-9235.jpg" />
+  <img alt="Ashley Estes." src="https://i2.wp.com/cdn.historycommons.org/images/events/Ashely_Estes_2050081722-9235.jpg" />
   <figcaption>Ashley Estes.<br>[Source: Eric Draper / White House]</figcaption>
 </figure>
 

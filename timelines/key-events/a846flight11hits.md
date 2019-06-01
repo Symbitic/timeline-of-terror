@@ -14,7 +14,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img src="http://cdn.historycommons.org/images/events/272_flight11_hole2050081722-9132.jpg" alt="The hole caused by the Flight 11 crash." />
+  <img src="https://i2.wp.com/cdn.historycommons.org/images/events/272_flight11_hole2050081722-9132.jpg" alt="The hole caused by the Flight 11 crash." />
   <figcaption>The hole caused by the Flight 11 crash.<br>[Source: Reuters]</figcaption>
 </figure>
 

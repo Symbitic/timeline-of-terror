@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="The South Tower of the World Trade Center collapses." src="http://cdn.historycommons.org/images/events/338_south_tower_collapse2050081722-9613.jpg" />
+  <img alt="The South Tower of the World Trade Center collapses." src="https://i2.wp.com/cdn.historycommons.org/images/events/338_south_tower_collapse2050081722-9613.jpg" />
   <figcaption>The South Tower of the World Trade Center collapses.<br>[Source: Associated Press]</figcaption>
 </figure>
 

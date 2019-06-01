@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="President Bush and Sandra Kay Daniels read while the media watches." src="http://cdn.historycommons.org/images/events/297_booker_classroom2050081722-9169.jpg" />
+  <img alt="President Bush and Sandra Kay Daniels read while the media watches." src="https://i2.wp.com/cdn.historycommons.org/images/events/297_booker_classroom2050081722-9169.jpg" />
   <figcaption>President Bush and Sandra Kay Daniels read while the media watches.<br>[Source: White House / Eric Draper]</figcaption>
 </figure>
 

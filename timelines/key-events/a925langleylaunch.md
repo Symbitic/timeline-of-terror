@@ -13,7 +13,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Captain Craig Borgstrom." src="http://cdn.historycommons.org/images/events/729_craig_borgstrom_2050081722-9042.jpg" />
+  <img alt="Captain Craig Borgstrom." src="https://i2.wp.com/cdn.historycommons.org/images/events/729_craig_borgstrom_2050081722-9042.jpg" />
   <figcaption>Captain Craig Borgstrom.<br>[Source: US Air Force / Austin Knox]</figcaption>
 </figure>
 

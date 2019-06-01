@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Doug Davis." src="http://cdn.historycommons.org/images/events/Doug_Davis_2050081722-9290.jpg" />
+  <img alt="Doug Davis." src="https://i2.wp.com/cdn.historycommons.org/images/events/Doug_Davis_2050081722-9290.jpg" />
   <figcaption>Doug Davis.<br>[Source: Federal Aviation Administration]</figcaption>
 </figure>
 

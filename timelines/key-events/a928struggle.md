@@ -11,7 +11,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Jason Dahl." src="http://cdn.historycommons.org/images/events/308_jason_dahl.jpg" />
+  <img alt="Jason Dahl." src="https://i2.wp.com/cdn.historycommons.org/images/events/308_jason_dahl.jpg" />
   <figcaption>Jason Dahl.<br>[Source: Publicity photo]</figcaption>
 <figure>
 
