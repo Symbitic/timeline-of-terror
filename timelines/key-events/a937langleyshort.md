@@ -12,7 +12,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="A typical F-16." src="https://i2.wp.com/cdn.historycommons.org/images/events/311_f162050081722-9066.jpg" />
+  <img alt="A typical F-16." src="//i2.wp.com/cdn.historycommons.org/images/events/311_f162050081722-9066.jpg" />
   <figcaption>A typical F-16.<br>[Source: NORAD]</figcaption>
 <figure>
 

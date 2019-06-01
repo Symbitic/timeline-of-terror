@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Andrew Card speaks to President Bush and tells him of the second World Trade Center crash." src="https://i2.wp.com/cdn.historycommons.org/images/events/295_card_tells_bush2050081722-9210.jpg" />
+  <img alt="Andrew Card speaks to President Bush and tells him of the second World Trade Center crash." src="//i2.wp.com/cdn.historycommons.org/images/events/295_card_tells_bush2050081722-9210.jpg" />
   <figcaption>Andrew Card speaks to President Bush and tells him of the second World Trade Center crash.<br>[Source: Agence France-Presse]<figcaption>
 </figure>
 

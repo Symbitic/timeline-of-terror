@@ -11,7 +11,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="The National Miilitary Command Center, inside the Pentagon" src="https://i2.wp.com/cdn.historycommons.org/images/events/310_NMCC2050081722-9200.jpg" />
+  <img alt="The National Miilitary Command Center, inside the Pentagon" src="//i2.wp.com/cdn.historycommons.org/images/events/310_NMCC2050081722-9200.jpg" />
   <figcaption>The National Miilitary Command Center, inside the Pentagon.<br>[Source: US Department of Defense]</figcaption>
 </figure>
 

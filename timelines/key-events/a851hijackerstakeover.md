@@ -11,7 +11,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Charles Burlingame." src="https://i2.wp.com/cdn.historycommons.org/images/events/a063_charles_burnlingame_2050081722-16287.jpg" />
+  <img alt="Charles Burlingame." src="//i2.wp.com/cdn.historycommons.org/images/events/a063_charles_burnlingame_2050081722-16287.jpg" />
   <figcaption>Charles Burlingame.<br>[Source: Family photo / Associated Press]</figcaption>
 </figure>
 

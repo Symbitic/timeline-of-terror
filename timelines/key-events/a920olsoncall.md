@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Barbara Olson." src="https://i2.wp.com/cdn.historycommons.org/images/events/Barbara_Olson_2050081722-9123.jpg" />
+  <img alt="Barbara Olson." src="//i2.wp.com/cdn.historycommons.org/images/events/Barbara_Olson_2050081722-9123.jpg" />
   <figcaption>Barbara Olson.<br>[Source: Richard Eillis / Getty Images]</figcaption>
 </figure>
 

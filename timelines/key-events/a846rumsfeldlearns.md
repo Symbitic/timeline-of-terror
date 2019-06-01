@@ -9,7 +9,7 @@ timelines:
 ---
 
 <!--
-![Larry Di Rita.](https://i2.wp.com/cdn.historycommons.org/images/events/931_larry_di_rita_2050081722-15378.jpg)
+![Larry Di Rita.](//i2.wp.com/cdn.historycommons.org/images/events/931_larry_di_rita_2050081722-15378.jpg)
 Larry Di Rita.
 *[Source: US Department of Defense]*
 -->

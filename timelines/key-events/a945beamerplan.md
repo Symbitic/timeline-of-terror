@@ -11,7 +11,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Todd Beamer." src="https://i2.wp.com/cdn.historycommons.org/images/events/324_todd_beamer.jpg" />
+  <img alt="Todd Beamer." src="//i2.wp.com/cdn.historycommons.org/images/events/324_todd_beamer.jpg" />
   <figcaption>Todd Beamer.<br>[Source: Family photo]</figcaption>
 </figure>
 

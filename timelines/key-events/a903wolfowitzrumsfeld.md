@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Denny Watson." src="https://i2.wp.com/cdn.historycommons.org/images/events/Denny_Watson_2050081722-9230.jpg" />
+  <img alt="Denny Watson." src="//i2.wp.com/cdn.historycommons.org/images/events/Denny_Watson_2050081722-9230.jpg" />
   <figcaption>Denny Watson.<br>[Source: Risk Assessment Network + Exchange]</figcaption>
 </figure>
 

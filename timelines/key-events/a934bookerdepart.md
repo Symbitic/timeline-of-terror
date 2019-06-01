@@ -11,7 +11,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Bush's motorcade on its way to the Sarasota airport." src="https://i2.wp.com/cdn.historycommons.org/images/events/696_bush_motocade_to_sarasota_airport2050081722-9114-1.jpg" />
+  <img alt="Bush's motorcade on its way to the Sarasota airport." src="//i2.wp.com/cdn.historycommons.org/images/events/696_bush_motocade_to_sarasota_airport2050081722-9114-1.jpg" />
   <figcaption>Bush's motorcade on its way to the Sarasota airport.<br>[Source: CBC]</figcaption>
 </figure>
 

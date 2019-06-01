@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Fireman Mike Kehoe heads upstairs while others flee downstairs. Kehoe luckily survived the building collapses." src="https://i2.wp.com/cdn.historycommons.org/images/events/339_mike_kehoe2050081722-9642.jpg" />
+  <img alt="Fireman Mike Kehoe heads upstairs while others flee downstairs. Kehoe luckily survived the building collapses." src="//i2.wp.com/cdn.historycommons.org/images/events/339_mike_kehoe2050081722-9642.jpg" />
   <figcaption>Fireman Mike Kehoe heads upstairs while others flee downstairs. Kehoe luckily survived the building collapses.<br>[Source: John Labriola]</figcaption>
 </figure>
 

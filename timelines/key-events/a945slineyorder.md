@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="FAA National Operations Manager Ben Sliney." src="https://i2.wp.com/cdn.historycommons.org/images/events/326_ben_sliney.jpg" />
+  <img alt="FAA National Operations Manager Ben Sliney." src="//i2.wp.com/cdn.historycommons.org/images/events/326_ben_sliney.jpg" />
   <figcaption>FAA National Operations Manager Ben Sliney.<br>[Source: Publicity photo]</figcaption>
 </figure>
 

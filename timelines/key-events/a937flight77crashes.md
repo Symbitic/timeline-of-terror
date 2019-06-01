@@ -13,7 +13,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="The Pentagon explodes." src="https://i2.wp.com/cdn.historycommons.org/images/events/318_pentagon_explosion.jpg" />
+  <img alt="The Pentagon explodes." src="//i2.wp.com/cdn.historycommons.org/images/events/318_pentagon_explosion.jpg" />
   <figcaption>The Pentagon explodes.<br>[Source: Donley/ Sipa]</figcaption>
 </figure>
 

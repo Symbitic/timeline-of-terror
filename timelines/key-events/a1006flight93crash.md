@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Flight 93 crashed in the Pennsylvania countryside. Resue vehicles arrive in the distance." src="https://i2.wp.com/cdn.historycommons.org/images/events/343_93crash2050081722-9364.jpg" />
+  <img alt="Flight 93 crashed in the Pennsylvania countryside. Resue vehicles arrive in the distance." src="//i2.wp.com/cdn.historycommons.org/images/events/343_93crash2050081722-9364.jpg" />
   <figcaption>Flight 93 crashed in the Pennsylvania countryside. Resue vehicles arrive in the distance.<br>[Source: Keith Srakocic/ Associated Press]</figcaption>
 <figure>
 

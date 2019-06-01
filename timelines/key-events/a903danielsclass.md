@@ -9,7 +9,7 @@ timelines:
 ---
 
 <!--
-![President Bush enters Sandra Kay Daniels' classroom.](https://i2.wp.com/cdn.historycommons.org/images/events/292_bush_meets_teacher2050081722-9208.jpg)
+![President Bush enters Sandra Kay Daniels' classroom.](//i2.wp.com/cdn.historycommons.org/images/events/292_bush_meets_teacher2050081722-9208.jpg)
 President Bush enters Sandra Kay Daniels' classroom.
 *[Source: Lions Gate Films]*
 -->

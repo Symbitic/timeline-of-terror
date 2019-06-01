@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Eric Edelman." src="https://i2.wp.com/cdn.historycommons.org/images/events/Eric_Edelman_2050081722-45949.jpg" />
+  <img alt="Eric Edelman." src="//i2.wp.com/cdn.historycommons.org/images/events/Eric_Edelman_2050081722-45949.jpg" />
   <figcaption>Eric Edelman.<br>[Source: US Department of Defense]</figcaption>
 </figure>
 

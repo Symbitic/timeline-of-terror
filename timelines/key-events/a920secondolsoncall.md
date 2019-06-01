@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure>
-  <img alt="The telephone Ted Olson used when he spoke to his wife, who called him from Flight 77." src="https://i2.wp.com/cdn.historycommons.org/images/events/Olson_Phone_2050081722-46599.jpg" />
+  <img alt="The telephone Ted Olson used when he spoke to his wife, who called him from Flight 77." src="//i2.wp.com/cdn.historycommons.org/images/events/Olson_Phone_2050081722-46599.jpg" />
   <figcaption>The telephone Ted Olson used when he spoke to his wife, who called him from Flight 77.<br>[Source: US Department of Justice]</figcaption>
 </figure>
 

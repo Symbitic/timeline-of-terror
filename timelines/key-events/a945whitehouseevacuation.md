@@ -10,7 +10,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Secret Service with automatic weapons directing people away from the White House." src="https://i2.wp.com/cdn.historycommons.org/images/events/325_secret_service_point2050081722-9567.jpg" />
+  <img alt="Secret Service with automatic weapons directing people away from the White House." src="//i2.wp.com/cdn.historycommons.org/images/events/325_secret_service_point2050081722-9567.jpg" />
   <figcaption>Secret Service with automatic weapons directing people away from the White House.<br>[Source: Associated Press]</figcaption>
 </figure>
 

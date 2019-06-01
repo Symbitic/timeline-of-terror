@@ -10,7 +10,7 @@ timelines:
 ---
 
 <!--
-![Daniel Caine.](https://i2.wp.com/cdn.historycommons.org/images/events/DanielCaine_2050081722-9189.jpg)
+![Daniel Caine.](//i2.wp.com/cdn.historycommons.org/images/events/DanielCaine_2050081722-9189.jpg)
 Daniel Caine.
 *[Source: White House]*
 -->

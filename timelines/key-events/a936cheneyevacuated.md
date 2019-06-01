@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Dick Cheney heading to the the Presidential Emergency Operations Center." src="https://i2.wp.com/cdn.historycommons.org/images/events/Cheney_Evacuated_2050081722-45852.jpg" />
+  <img alt="Dick Cheney heading to the the Presidential Emergency Operations Center." src="//i2.wp.com/cdn.historycommons.org/images/events/Cheney_Evacuated_2050081722-45852.jpg" />
   <figcaption>Dick Cheney heading to the the Presidential Emergency Operations Center.<br>[Source: David Bohrer / White House]</figure>
 </figure>
 

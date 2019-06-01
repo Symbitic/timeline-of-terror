@@ -11,7 +11,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="John Fulton." src="https://i2.wp.com/cdn.historycommons.org/images/events/285_john_fulton2050081722-9871.jpg" />
+  <img alt="John Fulton." src="//i2.wp.com/cdn.historycommons.org/images/events/285_john_fulton2050081722-9871.jpg" />
   <figcaption>John Fulton.<br>[Source: NLESI]</figcaption>
 </figure>
 

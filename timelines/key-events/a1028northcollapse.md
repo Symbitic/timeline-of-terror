@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="The North Tower collapses in a matter of seconds." src="https://i2.wp.com/cdn.historycommons.org/images/events/350_northtower_collapse2050081722-9460.jpg" />
+  <img alt="The North Tower collapses in a matter of seconds." src="//i2.wp.com/cdn.historycommons.org/images/events/350_northtower_collapse2050081722-9460.jpg" />
   <figcaption>The North Tower collapses in a matter of seconds.<br>[Source: Ray Stubblebine/ Reuters/ Landov]</figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img src="https://i2.wp.com/cdn.historycommons.org/images/events/289_flight175_high2050081722-9069.jpg" alt="Flight 175 hits the WTC South Tower. The picture was taken from a traffic helicopter." />
+  <img src="//i2.wp.com/cdn.historycommons.org/images/events/289_flight175_high2050081722-9069.jpg" alt="Flight 175 hits the WTC South Tower. The picture was taken from a traffic helicopter." />
   <figcaption>Flight 175 hits the WTC South Tower. The picture was taken from a traffic helicopter.<br />[Source: WABC 7/ Salient Stills]</figcaption>
 </figure>
 

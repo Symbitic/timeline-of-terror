@@ -9,7 +9,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Karl Rove, Andrew Card, and Dan Bartlett." src="https://i2.wp.com/cdn.historycommons.org/images/events/284_rove_card_bartlett.jpg" />
+  <img alt="Karl Rove, Andrew Card, and Dan Bartlett." src="//i2.wp.com/cdn.historycommons.org/images/events/284_rove_card_bartlett.jpg" />
   <figcaption>Karl Rove, Andrew Card, and Dan Bartlett.<br>[Source: White House, US Office Pristina, Kosovo, White House]</figcaption>
 </figure>
 

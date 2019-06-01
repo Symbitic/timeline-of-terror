@@ -12,7 +12,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="NEADS commander Robert Marr." src="https://i2.wp.com/cdn.historycommons.org/images/events/293_robert_marr2050081722-9715.jpg" />
+  <img alt="NEADS commander Robert Marr." src="//i2.wp.com/cdn.historycommons.org/images/events/293_robert_marr2050081722-9715.jpg" />
   <figcaption>NEADS commander Robert Marr.<br>[Source: Dick Blume]</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ timelines:
 ---
 
 <!--
-![Curt Applegate sitting next to his air traffic control terminal.](https://i2.wp.com/cdn.historycommons.org/images/events/690_curt_applegate2050081722-9036.jpg)
+![Curt Applegate sitting next to his air traffic control terminal.](//i2.wp.com/cdn.historycommons.org/images/events/690_curt_applegate2050081722-9036.jpg)
 Curt Applegate sitting next to his air traffic control terminal.
 *[Source: NBC News]*
 -->

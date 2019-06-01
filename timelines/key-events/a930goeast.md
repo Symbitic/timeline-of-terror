@@ -13,7 +13,7 @@ timelines:
 ---
 
 <figure class="image">
-  <img alt="Route of the Langley Air Base fighters to Washington." src="https://i2.wp.com/cdn.historycommons.org/images/events/313_langley_route2050081722-9074.jpg" />
+  <img alt="Route of the Langley Air Base fighters to Washington." src="//i2.wp.com/cdn.historycommons.org/images/events/313_langley_route2050081722-9074.jpg" />
   <figcaption>Route of the Langley Air Base fighters to Washington.<br>[Source: Yvonne Vermillion/ MagicGraphix.com]</figcaption>
 </figure>
 
