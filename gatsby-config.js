@@ -55,6 +55,19 @@ module.exports = {
       }
     },
     'gatsby-plugin-netlify',
+    'gatsby-plugin-react-helmet',
+    {
+      resolve: 'gatsby-plugin-typography',
+      options: {
+        pathToConfigModule: 'src/utils/typography'
+      }
+    },
+    'gatsby-plugin-postcss',
+    'gatsby-plugin-purgecss',
+    // 'gatsby-plugin-polyfill-io',
+    'gatsby-plugin-nprogress',
+    'gatsby-plugin-fastclick',
+    // 'gatsby-plugin-brotli',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
@@ -68,19 +81,7 @@ module.exports = {
         crossOrigin: 'use-credentials'
       }
     },
-    'gatsby-plugin-react-helmet',
-    {
-      resolve: 'gatsby-plugin-typography',
-      options: {
-        pathToConfigModule: 'src/utils/typography'
-      }
-    },
-    'gatsby-plugin-postcss',
-    'gatsby-plugin-purgecss',
-    'gatsby-plugin-polyfill-io',
-    'gatsby-plugin-nprogress',
-    'gatsby-plugin-fastclick',
-    'gatsby-plugin-brotli',
-    'gatsby-plugin-offline',
+    // 'gatsby-plugin-offline'
+    'gatsby-plugin-remove-serviceworker'
   ]
 }
