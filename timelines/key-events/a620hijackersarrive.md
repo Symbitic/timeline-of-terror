@@ -1,5 +1,5 @@
 ---
-id: 620hijackersarrive
+id: a620hijackersarrive
 title: Hijackers Arrive at Airports and Board Flights; Computer Screening Program Fails to Stop Them
 time: 2001-09-11T06:20:00.000Z
 endTime: 2001-09-11T07:48:00.000Z
@@ -21,14 +21,14 @@ Their baggage is to be screened for explosives or held off the plane until they 
 
 In addition, Mohamed Atta was selected when he checked in at the airport in Portland, for his earlier connecting flight to Boston (see [5:33 a.m.-5:40 a.m. September 11, 2001][10]). All of the hijackers subsequently pass through security checkpoints before boarding their flights. [[9/11 Commission, 7/24/2004, pp. 1-4][11]]
 
-[1]: http://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt
+[1]: https://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt
 [2]: https://www.hsdl.org/?view&did=484625
 [3]: https://web.archive.org/web/20110224023730/http://www.usnews.com/usnews/news/articles/020401/archive_020476.htm
-[4]: http://www.9-11commission.gov/archive/hearing7/9-11Commission_Hearing_2004-01-27.htm
-[5]: http://www.house.gov/transportation/aviation/03-17-04/03-17-04memo.html
+[4]: https://9-11commission.gov/archive/hearing7/9-11Commission_Hearing_2004-01-27.htm
+[5]: https://web.archive.org/web/20040324230350/http://www.house.gov/transportation/aviation/03-17-04/03-17-04memo.html
 [6]: https://www.hsdl.org/?view&did=484625
-[7]: http://www.washingtonpost.com/archive/politics/2004/01/28/911-hijackers-used-mace-and-knives-panel-reports/797594cd-7f6a-4a0e-bbd4-095273d102ae/
-[8]: http://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt
-[9]: http://cryptome.quintessenz.at/mirror/usa-v-zm-030606-02.htm
-[10]: TODO
-[11]: http://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt
+[7]: https://www.washingtonpost.com/archive/politics/2004/01/28/911-hijackers-used-mace-and-knives-panel-reports/797594cd-7f6a-4a0e-bbd4-095273d102ae/
+[8]: https://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt
+[9]: https://web.archive.org/web/20060617100653/http://cryptome.quintessenz.at/mirror/usa-v-zm-030606-02.htm
+[10]: /timeline/#a533hijackersdrive
+[11]: https://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt

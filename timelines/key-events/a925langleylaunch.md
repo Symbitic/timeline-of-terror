@@ -12,11 +12,6 @@ timelines:
 
 ---
 
-<figure class="image">
-  <img alt="Captain Craig Borgstrom." src="//i2.wp.com/cdn.historycommons.org/images/events/729_craig_borgstrom_2050081722-9042.jpg" />
-  <figcaption>Captain Craig Borgstrom.<br>[Source: US Air Force / Austin Knox]</figcaption>
-</figure>
-
 The three F-16 fighter jets ordered to scramble from Langley Air Force Base in Virginia (see [9:24 a.m. September 11, 2001](/timeline/#a924ordertoscramble)) take off and, radar data will show, are airborne by 9:30 a.m. [[North American Aerospace Defense Command, 9/18/2001][1]; [Christian Science Monitor, 4/16/2002][2]; [9/11 Commission, 7/24/2004, pp. 27][3]]
 
 **Delayed during Launch** - Major Dean Eckmann will recall that, after receiving the scramble order, he and the two other pilots have "a pretty quick response time. I believe it was four to five minutes we were airborne from that point." [[BBC, 9/1/2002][4]] According to the 1st Air Force's book about 9/11, the three fighters are "given highest priority over all other air traffic at Langley Air Force Base" as they are launching. [[Filson, 2003, pp. 63][5]] But, according to author Lynn Spencer, in spite of this, the jets are delayed. As Eckmann is approaching the runway, he calls the control tower for clearance to take off, but the tower controller tells him, "Hold for an air traffic delay." Air traffic controllers at the FAA's Washington Center "have not had time to clear airliners out of the way for the northerly heading. Dozens of aircraft at various altitudes fill the jets' route." After having to wait two minutes, Eckmann complains: "We're an active air scramble. We need to go now!" Finally, the tower controller tells him, "Roger, Quit flight is cleared for takeoff, 090 for 60," meaning the fighters are to fly due east for 60 miles (see [(9:30 a.m.) September 11, 2001](/timeline/#a930langleytower)). 

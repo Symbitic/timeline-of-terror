@@ -4,7 +4,7 @@ title: Rumsfeld Spends Brief Time at Pentagon Crash Scene and Helps Carry a Stre
 time: 2001-09-11T09:38:00.000Z
 endTime: 2001-09-11T10:00:00.000Z
 timelines:
-  - Key Day of 9/11 Events
+  - Key Events of 9/11
   - Pentagon
 
 ---

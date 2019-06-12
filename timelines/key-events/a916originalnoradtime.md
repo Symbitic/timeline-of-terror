@@ -6,8 +6,8 @@ timelines:
   - Federal Aviation Administration
   - Flight 93
   - Key Events of 9/11
-  - North American Aerospace Defense Command
-  - Northeast Air Defense Sector
+  - NORAD
+  - NEADS
 
 ---
 

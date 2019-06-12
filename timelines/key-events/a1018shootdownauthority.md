@@ -4,7 +4,7 @@ title: Cheney Calls Bush; Receives Shootdown Authorization, According to 9/11 Co
 time: 2001-09-11T10:18:00.000Z
 endTime: 2001-09-11T10:20:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
   - Military
 

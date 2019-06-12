@@ -7,7 +7,7 @@ const typography = new Typography({
   baseLineHeight: 1.45,
   blockMarginBottom: 0.8,
   bodyColor: 'white',
-  bodyFontFamily: [ 'Roboto', 'sans-serif' ],
+  bodyFontFamily: [ 'Open Sans', 'sans-serif' ],
   bodyWeight: 400,
   boldWeight: 700,
   headerColor: 'white',

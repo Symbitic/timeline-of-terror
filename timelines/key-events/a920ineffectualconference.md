@@ -8,7 +8,6 @@ timelines:
   - Flight 77
   - Flight 93
   - Key Events of 9/11
-  - US Department of Defense
 
 ---
 

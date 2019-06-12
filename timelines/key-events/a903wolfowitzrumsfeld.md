@@ -8,11 +8,6 @@ timelines:
 
 ---
 
-<figure class="image">
-  <img alt="Denny Watson." src="//i2.wp.com/cdn.historycommons.org/images/events/Denny_Watson_2050081722-9230.jpg" />
-  <figcaption>Denny Watson.<br>[Source: Risk Assessment Network + Exchange]</figcaption>
-</figure>
-
 Secretary of Defense Donald Rumsfeld goes ahead with his daily intelligence briefing in his office at the Pentagon, even though Denny Watson, his CIA briefer, urges him to cancel it and respond to the terrorist attacks. [[Rumsfeld, 2011, pp. 335][1]; [Priess, 2016, pp. 244][2]] Rumsfeld has just been in a meeting in his private dining room that was attended by several members of Congress (see [(8:00 a.m.-8:50 a.m.) September 11, 2001](/timeline/#a800breakfastmeeting)). During it, he was informed that a plane had crashed into the World Trade Center (see [Shortly After 8:46 a.m. September 11, 2001](/timeline/#a846rumsfeldlearns)). [[Associated Press, 9/12/2001][3]; [US Department of Defense, 12/5/2001][4]; [9/11 Commission, 3/23/2004][5]] He assumed the crash was an accident. [[Vogel, 2007, pp. 428][7]; [Rumsfeld, 2011, pp. 335][1]]
 
 **Rumsfeld Went to His Office for His Intelligence Briefing** - After the meeting ended, apparently around 9:00 a.m., he returned to his office to receive his intelligence briefing. [[Historical Office, Office of the Secretary of Defense, 7/18/2002][6]; [9/11 Commission, 7/24/2004, pp. 37][8]] Rumsfeld receives an intelligence briefing from Watson each morning, similar to the intelligence briefing provided to the president each day. The briefings usually last at least half an hour. [[Rumsfeld, 2011, pp. 335][1]; [Priess, 2016, pp. 243][2]] The briefing today is scheduled to run from 9:00 a.m. to 9:30 a.m. [[US Department of Defense, 8/12/2002][9]]

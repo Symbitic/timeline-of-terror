@@ -3,7 +3,7 @@ id: a929speech
 title: President Bush Makes a Scheduled Speech; Proclaims Terrorist Attack on Our Country
 time: 2001-09-11T09:30:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
 
 ---

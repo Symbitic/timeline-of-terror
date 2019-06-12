@@ -13,7 +13,7 @@ timelines:
 <figure class="image">
   <img alt="Jason Dahl." src="//i2.wp.com/cdn.historycommons.org/images/events/308_jason_dahl.jpg" />
   <figcaption>Jason Dahl.<br>[Source: Publicity photo]</figcaption>
-<figure>
+</figure>
 
 According to the 9/11 Commission, less than a minute after Flight 93 acknowledged a routine radio transmission from the FAA's Cleveland Center (see [9:27 a.m. September 11, 2001](/timeline/#a927lastcontact)), John Werth—the controller handling the flight—and pilots of other aircraft in the vicinity of Flight 93 hear "a radio transmission of unintelligible sounds of possible screaming or a struggle from an unknown origin." [[9/11 Commission, 6/17/2004][1]; [CBS News, 9/10/2006][2]] Someone, presumably Flight 93's pilot Jason Dahl, is overheard by controllers as he shouts, "Mayday!" [[New York Times, 7/22/2004][3]] Seconds later, the controller responds, "Somebody call Cleveland?" Then there are more sounds of screaming and someone yelling, "Get out of here, get out of here." [[Newsweek, 9/22/2001][4]; [Observer, 12/2/2001][5]; [MSNBC, 7/30/2002][6]; [9/11 Commission, 6/17/2004][1]] Then the voices of the hijackers can be heard talking in Arabic. The words are later translated to show they are talking to each other, saying, "Everything is fine." [[Newsweek, 12/3/2001][7]] Later, passenger phone calls will describe two dead or injured bodies just outside the cockpit; presumably these are the two pilots. [[New York Times, 7/22/2004][3]]
 

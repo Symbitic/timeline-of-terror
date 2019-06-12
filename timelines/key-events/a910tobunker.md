@@ -3,15 +3,9 @@ id: a910tobunker
 title: Vice President Cheney Evacuated from Office, Earlier than Some Accounts Claim
 time: 2001-09-11T09:03:00.000Z
 timelines:
-  - Key Day of 9/11 Events
-  - US Secret Service
+  - Secret Service
 
 ---
-
-<figure class="image">
-  <img alt="Ashley Estes." src="//i2.wp.com/cdn.historycommons.org/images/events/Ashely_Estes_2050081722-9235.jpg" />
-  <figcaption>Ashley Estes.<br>[Source: Eric Draper / White House]</figcaption>
-</figure>
 
 Vice President Dick Cheney is taken by the Secret Service from his White House office toward the Presidential Emergency Operations Center (PEOC) below the East Wing of the White House around this time, according to some accounts, although other accounts, including the 9/11 Commission Report, will state that he is evacuated from his office about half an hour later. [[New York Times, 9/13/2001][1]; [Daily Telegraph, 12/16/2001][2]; [ABC News, 9/14/2002][3]; [Clarke, 2004, pp. 1-2][4]; [9/11 Commission, 7/24/2004, pp. 39-40][13]]
 * The Secret Service evacuates Cheney from his office "[j]ust after 9 a.m.," according to ABC News. At this time, "two or three agents came in and told him, 'Sir, you have to come with us.'" [[ABC News, 9/14/2002][3]]

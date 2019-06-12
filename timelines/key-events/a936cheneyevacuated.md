@@ -4,7 +4,7 @@ title: Vice President Cheney Evacuated from Office, according to Some Accounts
 time: 2001-09-11T09:36:00.000Z
 timelines:
   - Key Events of 9/11
-  - US Secret Service
+  - Secret Service
 
 ---
 

@@ -62,7 +62,7 @@ That being said, as an individual maintaining a grassroots project, there are so
 
 Although I may one day transfer day-to-day ownership of this project to another individual/organization, I maintain it myself for the time being. I will not be able to continue to do so without donations. If you've found this material useful and with so support us, please consider donating.
 
-I have not yet finished setting up a system to allow for easy donations to be made. When it is finished, we ask that anyone who can please use it, even if it is no more than a few cents. This site is and will always remain free, but donations help maintain and improve our work.
+Please consider donating just a few dollars (or even a few cents) at <https://buymeacoff.ee/qh0rXkiCd>. This site is and will always remain free, but donations help maintain and improve our work.
 
 Also, if you are a developer, please star our project on [GitHub][3]. Doing so will increase our visibility within the software development community, and allow us access to talented developers willing to help out.
 

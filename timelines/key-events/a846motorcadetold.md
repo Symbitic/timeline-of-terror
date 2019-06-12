@@ -4,7 +4,7 @@ title: Members of the President's Staff Learn of the Crash at the WTC, but Bush 
 time: 2001-09-11T08:48:00.000Z
 endTime: 2001-09-11T08:55:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
 
 ---

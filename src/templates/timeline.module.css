@@ -1,80 +1,3 @@
-/*
-$gap: 2rem
-$tablet: 769px
-$desktop: 960px + (2 * $gap)
-$widescreen: 1152px + (2 * $gap)
-$fullhd: 1344px + (2 * $gap)
-
-$container-offset: (2 * $gap)
-
-=desktop
-  @media screen and (min-width: $desktop)
-    @content
-=widescreen
-  @if $widescreen-enabled
-    @media screen and (min-width: $widescreen)
-      @content
-=fullhd
-  @if $fullhd-enabled
-    @media screen and (min-width: $fullhd)
-      @content
-
-.container
-  +desktop
-    max-width: $desktop - $container-offset
-  +widescreen
-    max-width: $widescreen - $container-offset
-  +fullhd
-    max-width: $fullhd - $container-offset
-
-@define-mixin icon $network, $color: blue {
-    .icon.is-$(network) {
-        color: $color;
-        @mixin-content;
-    }
-    .icon.is-$(network):hover {
-        color: white;
-        background: $color;
-    }
-}
-@mixin icon twitter {
-    background: url(twt.png);
-}
-
-:root {
-    --some-color: red;
-}
-.foo {
-    color: var(--some-color);
-}
-.bar {
-    --some-color: blue;
-    color: var(--some-color);
-}
-.bar:hover {
-    --some-color: green;
-}
-
-a, b {
-  color: red;
-  & c, & d {
-    color: white;
-  }
-}
-// becomes
-a, b {
-  color: red;
-}
-a c, a d, b c, b d {
-  color: white;
-}
-
-@custom-media --small-viewport (max-width: 30em);
-@media (--small-viewport) {}
-@custom-media --mq-b screen and (max-width: 30em);
-
-*/
-
 .container {
   padding: 0 20px;
 }
@@ -99,6 +22,14 @@ a c, a d, b c, b d {
 
 .content h5 {
   margin-top: 0.8888em;
+  
+  @media screen and (min-width: 1024px) {
+    margin-bottom: 0.3333em;
+  }
+}
+
+.content figure {
+  margin-bottom: 1em;
 }
 
 .footer {
@@ -111,30 +42,10 @@ a c, a d, b c, b d {
   }
 }
 
-/*
-.level-left + .level-right {
-  @media screen and (max-width: 768px) {
-    margin-top: 0px;
-  }
+.icon {
+  text-decoration: none;
+  width: 24px!important;
+  height: 24px!important;
+  margin: 0;
+  padding: 0;
 }
-*/
-
-/*
-@media screen and (min-width: 1024px) {
-  .container {
-    max-width: 960px;
-  }
-}
-
-@media screen and (min-width: 1216px) {
-  .container {
-    max-width: 1152px;
-  }
-}
-
-@media screen and (min-width: 1408px) {
-  .container {
-    max-width: 1344px;
-  }
-}
-*/

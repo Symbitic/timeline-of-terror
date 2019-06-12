@@ -49,6 +49,19 @@ export default function Index ({
           <p>The final death toll: 2996</p>
           <p>This project is dedicated to everyone whose life was taken or changed by the events of September 11, 2001.</p>
 
+          <h3 className="is-size-4">Timelines</h3>
+          
+          <Link to={`/timeline/`} aria-label="Read the complete timeline">Complete Timeline ({totalCount})</Link>
+          <ul>
+            {group.sort(sorter).map(timeline => (
+              <li key={timeline.fieldValue}>
+                <Link to={`/timelines/${kebab(timeline.fieldValue)}/`} aria-label={`Read the ${timeline.fieldValue} timeline`}>
+                  {timeline.fieldValue} ({timeline.totalCount})
+                </Link>
+              </li>
+            ))}
+          </ul>
+
           <article className="message is-danger">
             <div className="message-body">
               <p>If you are affiliated with the Terror Timeline project by History Commons, or know how they may be contacted, please email me at alex.shaw.as@gmail.com</p>
@@ -62,19 +75,6 @@ export default function Index ({
             </div>
           </article>
 
-          <h3 className="is-size-4">Timelines</h3>
-          <ul>
-            <li>
-              <Link to={`/timeline/`} aria-label="Read the complete timeline">Complete Timeline ({totalCount})</Link>
-            </li>
-            {group.sort(sorter).map(timeline => (
-              <li key={timeline.fieldValue}>
-                <Link to={`/timelines/${kebab(timeline.fieldValue)}/`} aria-label="Read the {timeline.fieldValue} timeline">
-                  {timeline.fieldValue} ({timeline.totalCount})
-                </Link>
-              </li>
-            ))}
-          </ul>
         </div>
       </div>
     </Layout>

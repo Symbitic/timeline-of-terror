@@ -64,6 +64,7 @@ export default function Timeline ({ data, pageContext }) {
       </div>
       <div className={cx('content', 'is-size-6', styles.content)}>
         <div className={cx('container', styles.container)}>
+          <hr />
           {edges.map(({ node }) => (
             <div key={node.fields.slug}>
               <h5 className="is-size-5">
@@ -72,14 +73,13 @@ export default function Timeline ({ data, pageContext }) {
                     ? `${node.frontmatter.startTime} - ${node.frontmatter.endTime}`
                     : node.frontmatter.startTime
                 }) {node.frontmatter.date}: {node.frontmatter.title}
-                
-                <a target="_blank" rel="noopener noreferrer" href={prose(repo, node.fields.path)} style={{textDecoration:'none'}} aria-label={`Edit ${node.fields.path}`}>
-                  <span className="icon is-large">
-                    <span class="fas fa-edit"></span>
-                  </span>
+                &nbsp;
+                <a target="_blank" rel="noopener noreferrer" href={prose(repo, node.fields.path)} className={styles.icon} aria-label={`Edit ${node.fields.path}`}>
+                  <span className="fas fa-edit"></span>
                 </a>
               </h5>
               <div dangerouslySetInnerHTML={{ __html: node.html }} />
+              <hr />
             </div>
           ))}
           <nav className={cx('level', 'is-mobile', styles.footer)}>
@@ -87,9 +87,7 @@ export default function Timeline ({ data, pageContext }) {
               <div className="level-item">
                 {previousPagePath && (
                   <Link style={{textDecoration:'none'}} to={previousPagePath} aria-label="Previous page">
-                    <span className="icon is-large">
-                      <span class="fas fa-arrow-left fa-lg"></span>
-                    </span>
+                    <span className="fas fa-arrow-left fa-lg"></span>
                   </Link>
                 )}
               </div>
@@ -98,9 +96,7 @@ export default function Timeline ({ data, pageContext }) {
               <div className="level-item">
                 {nextPagePath && (
                   <Link style={{textDecoration:'none'}} to={nextPagePath} aria-label="Next page">
-                    <span className="icon is-large">
-                      <span class="fas fa-arrow-right fa-lg"></span>
-                    </span>
+                    <span className="fas fa-arrow-right fa-lg"></span>
                   </Link>
                 )}
               </div>

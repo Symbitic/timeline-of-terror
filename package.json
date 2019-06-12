@@ -36,6 +36,7 @@
     "gatsby-plugin-offline": "^2.1.1",
     "gatsby-plugin-polyfill-io": "^1.1.0",
     "gatsby-plugin-postcss": "^2.0.7",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.2",
     "gatsby-plugin-purgecss": "^3.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",

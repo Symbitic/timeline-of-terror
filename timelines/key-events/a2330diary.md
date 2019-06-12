@@ -3,7 +3,7 @@ id: a1130diary
 title: President Bush Sees 9/11 as New Pearl Harbor
 time: 2001-09-11T23:30:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
   - Osama bin Laden
 

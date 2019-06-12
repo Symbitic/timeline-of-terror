@@ -4,7 +4,7 @@ title: Passengers Begin Attempt to Regain Control of Flight 93
 time: 2001-09-11T09:57:00.000Z
 timelines:
   - Flight 93
-  - Key Events of 9/11 Events
+  - Key Events of 9/11
 
 ---
 

@@ -8,7 +8,7 @@ timelines:
   - Flight 11
   - Flight 77
   - Key Events of 9/11
-  - Northeast Air Defense Sector
+  - NEADS
 
 ---
 

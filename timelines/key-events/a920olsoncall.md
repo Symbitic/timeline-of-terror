@@ -5,7 +5,6 @@ time: 2001-09-11T09:15:00.000Z
 endTime: 2001-09-11T09:25:00.000Z
 timelines:
   - Flight 77
-  - Key Events of 9/11
 
 ---
 

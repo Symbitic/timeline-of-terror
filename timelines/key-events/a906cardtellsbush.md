@@ -3,7 +3,7 @@ id: a906cardtellsbush
 title: Bush's Chief of Staff Card Tells the President that a Second Plane Has Hit the WTC and America Is under Attack
 time: 2001-09-11T09:07:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
 
 ---

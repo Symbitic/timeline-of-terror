@@ -5,7 +5,7 @@ time: 2001-09-11T09:36:00.000Z
 endTime: 2001-09-11T10:06:00.000Z
 timelines:
   - Flight 93
-  - Key Military of 9/11
+  - Key Events of 9/11
   - Military
   - NEADS
 
@@ -21,7 +21,6 @@ Yet, contradicting these claims, the 9/11 Commission will conclude that the mili
 
 [1]: https://911research.wtc7.net/cache/pentagon/attack/abcnews091102_jenningsinterviews.html
 [2]: https://www.amazon.com/Eyes-Horizon-Serving-National-Security/dp/1416560122
-[3]: https://www.amazon.com/Eyes-Horizon-Serving-National-Security/dp/1416560122
 [4]: https://9-11commission.gov/archive/hearing2/9-11Commission_Hearing_2003-05-23.htm
 [5]: https://www.amazon.com/Air-War-Over-America-Defense/dp/061512416X
 [6]: https://web.archive.org/web/20041020144854/http://www.decloah.com/mirrors/9-11/911_Report.txt

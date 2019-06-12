@@ -4,7 +4,7 @@ title: President Bush Listens to Children Reading, despite Knowing the US Is und
 time: 2001-09-11T09:08:00.000Z
 endTime: 2001-09-11T09:13:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
 
 ---

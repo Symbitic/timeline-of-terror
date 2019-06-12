@@ -3,16 +3,11 @@ id: a1030threateningcall
 title: White House Receives Phone Call in Which Caller Threatens Air Force One
 time: 2001-09-11T10:30:00.000Z
 timelines:
-  - George Bush
+  - President Bush
   - Key Events of 9/11
   - Secret Service
 
 ---
-
-<figure class="image">
-  <img alt="Eric Edelman." src="//i2.wp.com/cdn.historycommons.org/images/events/Eric_Edelman_2050081722-45949.jpg" />
-  <figcaption>Eric Edelman.<br>[Source: US Department of Defense]</figcaption>
-</figure>
 
 An anonymous phone call is received at the White House in which the caller says Air Force One, the president's plane, will be the next terrorist target and uses code words indicating they have inside information about government procedures. [[Cheney, 9/11/2001][1]; [New York Times, 9/13/2001][2]; [Woodward, 2002, pp. 18][3]] Air Force One is currently flying toward Barksdale Air Force Base in Louisiana, with President Bush on board (see [(10:20 a.m.) September 11, 2001](/timeline/#a1020destinationbarksdale)). [[9/11 Commission, 7/24/2004, pp. 325][4]] The White House receives a call from an anonymous individual, warning that the next target of the terrorist attacks will be Air Force One. The caller refers to the plane as "Angel." [[Sammon, 2002, pp. 106-107][5]; [Woodward, 2002, pp. 18][3]; [9/11 Commission, 7/24/2004, pp. 554][4]; [Darling, 2010, pp. 60-61][6]] "Angel" is the Secret Service's code name for Air Force One. [[Williams, 2004, pp. 81][7]; [CBS News, 11/25/2009][8]] An unnamed "high White House official" will later say the use of "American code words" shows the caller has "knowledge of procedures that made the threat credible." [[New York Times, 9/13/2001][9]]
 

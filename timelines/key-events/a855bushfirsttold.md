@@ -3,15 +3,10 @@ id: a855bushfirsttold
 title: President Bush Is First Told about the Crash at the WTC by Adviser Rove, according to Some Accounts
 time: 2001-09-11T08:55:00.000Z
 timelines:
-  - George Bush
-  - Key Events of 9/11 Events
+  - President Bush
+  - Key Events of 9/11
 
 ---
-
-<figure class="image">
-  <img alt="Karl Rove, Andrew Card, and Dan Bartlett." src="//i2.wp.com/cdn.historycommons.org/images/events/284_rove_card_bartlett.jpg" />
-  <figcaption>Karl Rove, Andrew Card, and Dan Bartlett.<br>[Source: White House, US Office Pristina, Kosovo, White House]</figcaption>
-</figure>
 
 President Bush is told that a plane has crashed into the World Trade Center for the first time by Karl Rove, his senior adviser, according to some accounts, although other accounts will state that he is first alerted to the crash by another member of his staff. Bush has just arrived at the Emma E. Booker Elementary School in Sarasota, Florida, where he is going to attend a children's reading event (see [(8:55 a.m.) September 11, 2001](#a855busharrives)). [[Sammon, 2002, pp. 41-42][1]; [Bush, 2010, pp. 126][2]; [Rove, 2010, pp. 249-250][3]; [Priess, 2016, pp. 240][4]; [Politico Magazine, 9/9/2016][5]]
 

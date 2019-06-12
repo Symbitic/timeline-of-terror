@@ -5,7 +5,7 @@ time: 2001-09-11T09:45:00.000Z
 endTime: 2001-09-11T09:56:00.000Z
 timelines:
   - Key Events of 9/11
-  - White House
+  - Central Intelligence Agency
 
 ---
 

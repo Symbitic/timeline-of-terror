@@ -5,7 +5,7 @@ time: 2001-09-11T09:34:00.000Z
 timelines:
   - Federal Aviation Administration
   - Flight 77
-  - Key Day of 9/11 Events
+  - Key Events of 9/11
   - NORAD
   - NEADS
 

@@ -3,10 +3,9 @@ id: a934bookerdepart
 title: President Bush's Motorcade Leaves the School for the Airport, but Initially Heads in the Wrong Direction
 time: 2001-09-11T09:34:00.000Z
 timelines:
-  - 9/11 Timeline
-  - George Bush
+  - President Bush
   - Key Events of 9/11
-  - US Secret Service
+  - Secret Service
 
 ---
 

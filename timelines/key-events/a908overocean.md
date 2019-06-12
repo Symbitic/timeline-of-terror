@@ -10,7 +10,7 @@ timelines:
   - Flight 93
   - Key Events of 9/11
   - Military
-  - Northeast Air Defense Sector
+  - NEADS
 
 ---
 

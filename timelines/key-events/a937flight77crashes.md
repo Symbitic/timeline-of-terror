@@ -1,11 +1,11 @@
 ---
 id: a937flight77crashes
 title: Flight 77 Crashes into Reinforced Section of the Pentagon, Killing 189
-time: 2001-09-11T09:37:00.000Z
+time: 2001-09-11T09:37:00.001Z
 timelines:
   - Flight 77
   - Flight 93
-  - George Bush
+  - President Bush
   - Hijackers
   - Key Events of 9/11
   - Pentagon
