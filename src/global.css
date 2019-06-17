@@ -6,6 +6,10 @@ body {
   color: white;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Roboto', serif;
+}
+
 body,
 button,
 input,
@@ -16,6 +20,10 @@ textarea {
 
 .title, .subtitle {
   color: white;
+}
+
+.subtitle {
+  font-weight: 500;
 }
 
 .content h1,

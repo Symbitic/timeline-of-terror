@@ -3,7 +3,8 @@ module.exports = {
     title: 'Timeline of Terror',
     author: 'Alex Shaw',
     description: 'A complete guide to all the events of 9/11',
-    repo: 'Symbitic/timeline-of-terror'
+    repo: 'Symbitic/timeline-of-terror',
+    siteUrl: 'https://timelineofterror.org'
   },
   plugins: [
     {
@@ -55,7 +56,9 @@ module.exports = {
       }
     },
     'gatsby-plugin-netlify',
+    'gatsby-plugin-netlify-cache',
     'gatsby-plugin-react-helmet',
+    /*
     {
       resolve: 'gatsby-plugin-prefetch-google-fonts',
       options: {
@@ -72,18 +75,15 @@ module.exports = {
         ]
       }
     },
-    {
-      resolve: 'gatsby-plugin-typography',
-      options: {
-        pathToConfigModule: 'src/utils/typography'
-      }
-    },
+    */
+
+    'gatsby-plugin-nprogress',
+    'gatsby-plugin-fastclick',
     'gatsby-plugin-postcss',
     'gatsby-plugin-purgecss',
     // 'gatsby-plugin-polyfill-io',
-    'gatsby-plugin-nprogress',
-    'gatsby-plugin-fastclick',
     // 'gatsby-plugin-brotli',
+    'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
@@ -97,7 +97,14 @@ module.exports = {
         crossOrigin: 'use-credentials'
       }
     },
-    // 'gatsby-plugin-offline'
-    'gatsby-plugin-remove-serviceworker'
+    ...process.env.NETLIFY_BUILD_BASE ? [
+      {
+        resolve: 'gatsby-plugin-react-helmet-canonical-urls',
+        options: {
+          siteUrl: 'https://timelineofterror.org'
+        }
+      },
+      'gatsby-plugin-offline'
+    ] : [ 'gatsby-plugin-remove-serviceworker' ]
   ]
 }

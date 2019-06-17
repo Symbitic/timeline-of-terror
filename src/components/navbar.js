@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types'
-import { Link } from 'gatsby'
+import { graphql, Link, useStaticQuery } from 'gatsby'
 import cx from 'classnames'
-import img from '../images/icon.png'
 import styles from './navbar.module.css'
 
 export default function Navbar ({ title }) {
@@ -15,11 +14,31 @@ export default function Navbar ({ title }) {
     setActive(!active)
   }
   
+  const {
+    icon: {
+      childImageSharp: {
+        resize: { src: img }
+      }
+    }
+  } = useStaticQuery(
+    graphql`
+      query {
+        icon: file(relativePath: { eq: "navbar.png" }) {
+          childImageSharp {
+            resize(width: 512, quality: 100) {
+              src
+            }
+          }
+        }
+      }
+    `
+  )
+  
   return (
 		<nav className="navbar is-black" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <div className="navbar-item">
-          <img className={styles.img} src={img} alt="Navbar icon" />
+          <img className={styles.img} src={img} alt="" />
         </div>
         <Link className={cx('navbar-item', styles.link)} to="/" aria-label="Navigate to home">
           <strong>{title}</strong>

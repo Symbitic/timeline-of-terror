@@ -15,10 +15,20 @@ export const pageQuery = graphql`
         title
       }
     }
+    picture: file(relativePath: { eq: "picture.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1600, quality: 100) {
+          sizes,
+          src,
+          srcSet,
+          srcSetWebp,
+        }
+      }
+    }
     allMarkdownRemark(
       filter: { frontmatter: { timelines: { ne: null } } }
     ) {
-      totalCount
+      totalCount,
       group(field: frontmatter___timelines) {
         fieldValue
         totalCount
@@ -30,6 +40,7 @@ export const pageQuery = graphql`
 export default function Index ({
   data: {
     allMarkdownRemark: { group, totalCount },
+    picture: { childImageSharp: { fluid: image } },
     site: {
       siteMetadata: { title }
     }
@@ -44,6 +55,11 @@ export default function Index ({
       </div>
       <div className="content is-size-6">
         <div className="container">
+          <picture>
+            <source type="image/webp" srcSet={image.srcSetWebp} sizes={image.sizes} />
+            <img alt="Twin Towers burning" src={image.src} srcSet={image.srcSet} sizes={image.sizes} />
+          </picture>
+
           <p>On September 11th, 2001, the entire world changed forever.</p>
           <p>19 hijackers affiliated with al-Qaeda flew two planes into the World Trade Center, another into the Pentagon, and attempted to fly a fourth into the US Capitol Building.</p>
           <p>The final death toll: 2996</p>
