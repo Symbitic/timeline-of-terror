@@ -12,7 +12,7 @@ timelines:
 <figure class="image">
   <img alt="Flight 93 crashed in the Pennsylvania countryside. Resue vehicles arrive in the distance." src="//i2.wp.com/cdn.historycommons.org/images/events/343_93crash2050081722-9364.jpg" />
   <figcaption>Flight 93 crashed in the Pennsylvania countryside. Resue vehicles arrive in the distance.<br>[Source: Keith Srakocic/ Associated Press]</figcaption>
-<figure>
+</figure>
 
 Flight 93 crashes into an empty field just north of the Somerset County Airport, about 80 miles southeast of Pittsburgh, 124 miles or 15 minutes from Washington, D.C. Presumably, hijackers Ziad Jarrah, Ahmed Alhaznawi, Ahmed Alnami, Saeed Alghamdi, and all the plane's passengers are killed instantly. [[CNN, 9/12/2001][1]; [North American Aerospace Defense Command, 9/18/2001][2]; [Guardian, 10/17/2001][3]; [USA Today, 8/12/2002][4]; [Associated Press, 8/21/2002][5]; [MSNBC, 9/3/2002](MSNBC, 9/3/2002)] The point of impact is a reclaimed coal mine, known locally as the Diamond T Mine, that was reportedly abandoned in 1996. [[Pittsburgh Tribune-Review, 9/12/2001][6]; [St. Petersburg Times, 9/12/2001][7]; [Pittsburgh Tribune-Review, 9/11/2002][8]] Being "reclaimed" means the earth had been excavated down to the coal seam, the coal removed, and then the earth replaced and planted over. [[Kashurba, 2002, pp. 121][9]] A US Army authorized seismic study times the crash at five seconds after 10:06 a.m. [[Kim and Baum, 2002][10]; [San Francisco Chronicle, 12/9/2002][11]] As mentioned previously, the timing of this crash is disputed and it may well occur at 10:03 a.m., 10:07 a.m., or 10:10 a.m. 
 

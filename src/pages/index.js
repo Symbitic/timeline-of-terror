@@ -67,7 +67,7 @@ export default function Index ({
 
           <h3 className="is-size-4">Timelines</h3>
           
-          <Link to={`/timeline/`} aria-label="Read the complete timeline">Complete Timeline ({totalCount})</Link>
+          <Link to={`/timeline/`} aria-label="Read the complete timeline">The complete timeline - all in one page ({totalCount})</Link>
           <ul>
             {group.sort(sorter).map(timeline => (
               <li key={timeline.fieldValue}>

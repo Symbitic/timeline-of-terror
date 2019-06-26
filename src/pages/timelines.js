@@ -43,10 +43,8 @@ export default function Timelines ({
       </div>
       <div className="content is-size-6">
         <div className="container">
+          <Link to={`/timeline/`} aria-label="Read the complete timeline">The complete timeline - all in one page ({totalCount})</Link>
           <ul>
-            <li>
-              <Link to={`/timeline/`} aria-label="Read the complete timeline">Complete Timeline ({totalCount})</Link>
-            </li>
             {group.sort(sorter).map(timeline => (
               <li key={timeline.fieldValue}>
                 <Link to={`/timelines/${kebab(timeline.fieldValue)}/`} aria-label="Read the {timeline.fieldValue} timeline">
