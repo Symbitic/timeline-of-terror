@@ -64,9 +64,9 @@ export default function Timeline ({ data, pageContext }) {
       </div>
       <div className={cx('content', 'is-size-6', styles.content)}>
         <div className={cx('container', styles.container)}>
-          <hr />
-          {edges.map(({ node }) => (
+          {edges.map(({ node }, i) => (
             <div key={node.fields.slug}>
+              {i === 0 && <hr />}
               <h5 className="is-size-5">
                 ({
                   node.frontmatter.endTime
@@ -78,7 +78,7 @@ export default function Timeline ({ data, pageContext }) {
                   <span className="fas fa-edit"></span>
                 </a>
               </h5>
-              <div dangerouslySetInnerHTML={{ __html: node.html }} />
+              <div className={styles.markdown} dangerouslySetInnerHTML={{ __html: node.html }} />
               <hr />
             </div>
           ))}

@@ -5,6 +5,9 @@ import SEO from '../components/seo'
 import { graphql, Link } from 'gatsby'
 import kebab from 'lodash/kebabCase'
 
+const FIRST = 'Key Events of 9/11'
+const sorter = (a, b) => (a.fieldValue === FIRST ? -1 : b.fieldValue === FIRST ? 1 : 0)
+
 export const pageQuery = graphql`
   query {
     site {
@@ -24,9 +27,6 @@ export const pageQuery = graphql`
   }
 `
 
-const FIRST = 'Key Events of 9/11'
-const sorter = (a, b) => (a.fieldValue === FIRST ? -1 : b.fieldValue === FIRST ? 1 : 0)
-
 export default function Timelines ({
   data: {
     allMarkdownRemark: { group, totalCount },
@@ -43,7 +43,6 @@ export default function Timelines ({
       </div>
       <div className="content is-size-6">
         <div className="container">
-          <Link to={`/timeline/`} aria-label="Read the complete timeline">The complete timeline - all in one page ({totalCount})</Link>
           <ul>
             {group.sort(sorter).map(timeline => (
               <li key={timeline.fieldValue}>
@@ -53,6 +52,7 @@ export default function Timelines ({
               </li>
             ))}
           </ul>
+          <Link to={`/timeline/`} aria-label="Read the complete timeline">The Complete Timeline ({totalCount})</Link>
         </div>
       </div>
     </Layout>

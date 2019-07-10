@@ -50,7 +50,13 @@ a, a:visited, a:hover {
 }
 
 .container a {
-  text-decoration: underline;
+  text-decoration-line: underline;
+  /*
+  text-underline-position: under;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  word-break: break-all;
+  */
 }
 
 @media (width < 1024px) {

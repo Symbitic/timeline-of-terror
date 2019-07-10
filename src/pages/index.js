@@ -67,7 +67,6 @@ export default function Index ({
 
           <h3 className="is-size-4">Timelines</h3>
           
-          <Link to={`/timeline/`} aria-label="Read the complete timeline">The complete timeline - all in one page ({totalCount})</Link>
           <ul>
             {group.sort(sorter).map(timeline => (
               <li key={timeline.fieldValue}>
@@ -77,8 +76,10 @@ export default function Index ({
               </li>
             ))}
           </ul>
+          
+          <Link to={`/timeline/`} aria-label="Read the complete timeline">The Complete Timeline ({totalCount})</Link>
 
-          <article className="message is-danger">
+          <article style={{ marginTop: '1.5rem' }} className="message is-danger">
             <div className="message-body">
               <p>If you are affiliated with the Terror Timeline project by History Commons, or know how they may be contacted, please email me at alex.shaw.as@gmail.com</p>
               <p>The terms of use state that this website may not use more than 200 entries from the Terror Timeline without permission first.</p>

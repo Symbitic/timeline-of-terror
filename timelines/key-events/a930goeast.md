@@ -17,7 +17,7 @@ timelines:
   <figcaption>Route of the Langley Air Base fighters to Washington.<br>[Source: Yvonne Vermillion/ MagicGraphix.com]</figcaption>
 </figure>
 
-The three F-16s that took off from Langley Air Force Base in Virginia (see [(9:25 a.m.-9:30 a.m.) September 11, 2001](/timeline/#a930langleylaunch)) head east, out over the Atlantic Ocean, instead of north toward the Baltimore area, as NORAD's Northeast Air Defense Sector (NEADS) instructed when it issued the scramble order (see [9:24 a.m. September 11, 2001](/timeline/#a924langleyscramble)). [[New York Times, 11/15/2001][1]; [9/11 Commission, 7/24/2004, pp. 27][2]]
+The three F-16s that took off from Langley Air Force Base in Virginia (see [9:25 a.m.-9:30 a.m. September 11, 2001](/timeline/#a930langleylaunch)) head east, out over the Atlantic Ocean, instead of north toward the Baltimore area, as NORAD's Northeast Air Defense Sector (NEADS) instructed when it issued the scramble order (see [9:24 a.m. September 11, 2001](/timeline/#a924langleyscramble)). [[New York Times, 11/15/2001][1]; [9/11 Commission, 7/24/2004, pp. 27][2]]
 
 **Three Reasons Jets Head East** - The 9/11 Commission will give three reasons why the Langley jets go east instead of north: "First, unlike a normal scramble order, this order did not include a distance to the target or the target's location. Second, a 'generic' flight plan—prepared to get the aircraft airborne and out of local airspace quickly—incorrectly led the Langley fighters to believe they were ordered to fly due east (090) for 60 miles. Third, the lead pilot and local FAA controller incorrectly assumed the flight plan instruction to go '090 for 60' superseded the original scramble order." [[9/11 Commission, 7/24/2004, pp. 27][2]]
 
