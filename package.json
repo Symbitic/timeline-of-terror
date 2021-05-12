@@ -55,7 +55,7 @@
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.19",
     "lodash": "^4.17.11",
-    "postcss": "^7.0.16",
+    "postcss": "^8.2.10",
     "postcss-at-rules-variables": "^0.1.7",
     "postcss-conditionals": "^2.1.0",
     "postcss-css-variables": "^0.12.0",
